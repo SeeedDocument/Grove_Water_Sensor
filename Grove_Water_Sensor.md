@@ -14,6 +14,7 @@ Model:[SEN113104](https://www.seeedstudio.com/item_detail.html?p_id=748)
 - Low power consumption
 - 2.0cm x 2.0cm Grove module
 - High sensitivity
+
 ## Applications Ideas
 
 - Rainfall detecting
